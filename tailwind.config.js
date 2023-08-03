@@ -15,9 +15,16 @@ module.exports = {
         burtons: 'burtons',
       },
       colors:{
-        'backgroundDefault': 'white',
-        'backgroundDarkmode': 'red',
-        'primary': 'black'
+        'bgDefault': '#080011',
+        'bgDefault2': '#2e004d',
+        'textDefault': "#dddddd",
+        'primary': '#1193ab',
+        'secondary': 'white',
+
+        'bgLightmode': 'white',
+        'textLightmode': "#1F2937",
+        'primaryLightmode': '#0D7E94',
+        'secondaryLightmode': 'black',
       }
     },
   },
